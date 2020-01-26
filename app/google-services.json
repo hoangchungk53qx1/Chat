@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "928510048447",
+    "firebase_url": "https://conversation-e34f7.firebaseio.com",
+    "project_id": "conversation-e34f7",
+    "storage_bucket": "conversation-e34f7.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:928510048447:android:abfe55861bd9b3cfdc2e0a",
+        "android_client_info": {
+          "package_name": "com.bhsoft.conversation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "928510048447-osn9r7bcnqhvohr6nj8m0ngi8etvmu9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXqNCi1GG_XdtUld5nMokSQVHZA0KhfTI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "928510048447-osn9r7bcnqhvohr6nj8m0ngi8etvmu9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
